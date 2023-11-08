@@ -2,6 +2,10 @@
   "name": "platzi-intro-react-base",
   "version": "0.1.0",
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.15",
+    "@mui/material": "^5.14.15",
     "react": "^18",
     "react-dom": "^18",
     "react-scripts": "5.0.1",
@@ -28,5 +32,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "/home/vestor/Documents/proyectos_cursos/curso_react/curso-react-intro/build/"
 }

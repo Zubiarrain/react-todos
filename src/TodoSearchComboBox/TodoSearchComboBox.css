@@ -1,0 +1,13 @@
+.Container {
+    display: flex;
+    justify-content: center;
+}
+
+.TodoSearchComboBox {
+    margin: 0 24px;
+    width: calc(100% - 62px);
+}
+
+.TodoSearchComboBox-TextField {
+    z-index: 0;
+}
