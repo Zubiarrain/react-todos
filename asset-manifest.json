@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Zubiarrain/react-todos/static/css/main.ecdc73e4.css",
+    "main.js": "/Zubiarrain/react-todos/static/js/main.aa9a0d85.js",
+    "index.html": "/Zubiarrain/react-todos/index.html",
+    "main.ecdc73e4.css.map": "/Zubiarrain/react-todos/static/css/main.ecdc73e4.css.map",
+    "main.aa9a0d85.js.map": "/Zubiarrain/react-todos/static/js/main.aa9a0d85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecdc73e4.css",
+    "static/js/main.aa9a0d85.js"
+  ]
+}
